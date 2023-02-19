@@ -1,0 +1,14 @@
+:root {
+    --gradient-background: linear-gradient(to bottom, #c7ecff 0, #f9efff 100%);
+    --cream-gradient: linear-gradient(to bottom, #fbf9ed 0, #fbeaf8 100%);
+    --2clr-gradient: linear-gradient(to bottom, #D6FFFC 0, #ffeff5 100%);
+    --btn1-gradient: linear-gradient(to right, #673AB7 0, #2196F3 100%);
+    --btn2-gradient: linear-gradient(to right, #ffbd84 0, #ff1f8e 100%);
+    --contact-gradient: linear-gradient(to bottom,#D6FFFC 0,#ffeff5 100%);
+    --blue-bg: #d7f0fd;
+    --cream-clr: #fffdf2;
+    --heading-clr: #050748;
+    --local-txt-clr: #6a6a8e;
+    --clr: #ff358f;
+}
+
